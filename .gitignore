@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+expense-tracker-backend/node_modules/
+
+# env files
+.env
+expense-tracker-backend/.env
+
+# logs
+*.log
+
+# OS files
+.DS_Store
